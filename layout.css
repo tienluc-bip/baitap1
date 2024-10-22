@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.block{
+    width: 100%;
+    height: 150px;
+}
+.blue-light{
+    background-color: #8aaae5;
+}
+.red{
+    background-color: red;
+    height: 50px;
+}
+.blue-dark{
+    background-color: rgb(43, 82, 239);
+    width: 75%;
+    height: 200px;
+    float:left;
+}
+.xanh{
+    background-color: rgb(107, 207, 218);
+    width: 25%;
+    height: 100px;
+    float:right;}
+
+.purple{
+    background-color: purple;
+    width: 25%;
+    height: 100px;
+    float:right;
+}
+.orange{
+    background-color: orange;
+    width: 25%;
+    height: 200px;
+    float:left;
+}
+.green-light{
+    background-color: lightgreen;
+    width: 75%;
+    height: 200px;
+    float:right;
+}
+.blue-medium {
+    background-color: rgb(43, 82, 239);
+    clear: both;
+    height: 100px;
+  
+}
